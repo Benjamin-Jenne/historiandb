@@ -1,0 +1,14 @@
+.jumbotron-fluid {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: url(../Images/1903_Baku_Oil_Wells.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.form-control-lg {
+  border-radius: 2rem 2rem 2rem 2rem !important;
+}
